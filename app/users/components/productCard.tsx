@@ -3,7 +3,7 @@ import AddToCart from './AddToCart';
 
 export const ProductCard = () => {
   return (
-    <div className='p-5 bg-sky-400 text-white test-xl hover:bg-sky-500'>
+    <div className='p-5 my-5 bg-sky-400 text-white test-xl hover:bg-sky-500'>
       <AddToCart />
     </div>
   
